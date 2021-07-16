@@ -89,7 +89,7 @@
         var bannerNode = $('.top-image');
         if(bannerNode.data('enable')){
             var index = parseInt((Math.random() * 4) + 1);
-            bannerNode.attr('style','background-image:url(https://cdn.jsdelivr.net/gh/zhangxiaolongsima/zhangxiaolongsima.github.io/banner/1.jpg)');
+            bannerNode.attr('style','background-image:url(/banner/'+index+'.jpg)','background-size:100% 100%','width:100%','height:100%');
         }
     })
 

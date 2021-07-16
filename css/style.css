@@ -199,9 +199,6 @@ header.scrolled #nav-toggle {
 @media screen and (max-width: 719px) {
   .hero {
     height: 100%;
-    width: 10%;
-    background-size: 10% 100%;
-    background-size: cover;
   }
 }
 .m-header {
