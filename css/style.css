@@ -189,7 +189,7 @@ header.scrolled #nav-toggle {
 }
 @media screen and (max-width: 719px) {
   .m-header .top-image {
-    background-size: 50% 50%;
+    width: 100%;
     padding-bottom: 73.4375%;
   }
   .m-header {
@@ -210,8 +210,8 @@ header.scrolled #nav-toggle {
   display: block;
   width: 100%;
   padding-bottom: 550px;
-  background: center center/cover no-repeat;
 }
+background-size: 100%,
 .m-header #wave-canvas {
   position: absolute;
   bottom: -1px;
