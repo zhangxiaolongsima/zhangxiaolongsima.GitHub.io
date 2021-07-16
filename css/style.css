@@ -189,7 +189,7 @@ header.scrolled #nav-toggle {
 }
 @media screen and (max-width: 719px) {
   .m-header .top-image {
-    width: 100.5%;
+    width: 60%;
     padding-bottom: 73.4375%;
   }
   .m-header {
