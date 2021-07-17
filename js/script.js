@@ -101,7 +101,7 @@
 			if (!(bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) ){
           bannerNode.attr('style','background-image:url(https://cdn.jsdelivr.net/gh/zhangxiaolongsima/zhangxiaolongsima.github.io/banner/1.jpg)');
         }else{
-		  bannerNode.attr('style','background-image:url(https://cdn.jsdelivr.net/gh/zhangxiaolongsima/zhangxiaolongsima.github.io/banner/m.jpg)');
+		  bannerNode.attr('style','background-image:url(https://cdn.jsdelivr.net/gh/zhangxiaolongsima/zhangxiaolongsima.github.io/banner/mobile.jpg)');
 		}
         }
     })
